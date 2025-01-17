@@ -1,6 +1,6 @@
 const { sub, factor } = require("./AllTest");
 
-describe("La somme de deux nombre a et b ", () => {
+describe("les test des nos fonctions ", () => {
   it("sustraction", () => {
     expect(sub(14, 3)).toBe(11);
   });
