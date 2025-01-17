@@ -1,5 +1,5 @@
 const somme = require("./Somme");
 
 test("Somme", () => {
-  expect(somme(3, 4)).toBe(7);
+  expect(somme(3, 2)).toBe(5);
 });
