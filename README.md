@@ -1,2 +1,2 @@
 # DevOpsJest
- Jest pour la phase de test DevOps
+ Jest and SonarQube  pour la phase de test DevOps
